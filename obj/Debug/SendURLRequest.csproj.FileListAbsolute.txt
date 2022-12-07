@@ -1,0 +1,8 @@
+C:\Users\macavall\source\repos\SendURLRequest\bin\Debug\SendURLRequest.exe.config
+C:\Users\macavall\source\repos\SendURLRequest\bin\Debug\SendURLRequest.exe
+C:\Users\macavall\source\repos\SendURLRequest\bin\Debug\SendURLRequest.pdb
+C:\Users\macavall\source\repos\SendURLRequest\obj\Debug\SendURLRequest.csproj.AssemblyReference.cache
+C:\Users\macavall\source\repos\SendURLRequest\obj\Debug\SendURLRequest.csproj.SuggestedBindingRedirects.cache
+C:\Users\macavall\source\repos\SendURLRequest\obj\Debug\SendURLRequest.csproj.CoreCompileInputs.cache
+C:\Users\macavall\source\repos\SendURLRequest\obj\Debug\SendURLRequest.exe
+C:\Users\macavall\source\repos\SendURLRequest\obj\Debug\SendURLRequest.pdb
